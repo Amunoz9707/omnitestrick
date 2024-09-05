@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OmniTest</string>
+    <string name="app.name.bar">Rick &amp; Morty</string>
+    <string name="character.image.description">characterImage</string>
+    <string name="common.label.understood.text">Entendido</string>
+    <string name="character.detail.status.title">Status</string>
+    <string name="character.detail.species.title">Species</string>
+    <string name="character.detail.origin.title">Origin</string>
+    <string name="character.detail.location.title">Location</string>
+</resources>
