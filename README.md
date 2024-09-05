@@ -1,0 +1,2 @@
+# omnitestrick
+omni.pro test
